@@ -1,0 +1,12 @@
+.Conteiner {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+    margin-top: 100px;
+  }
+  .poke {
+    width: 450px;
+    height: 300px;
+    text-align: center;
+  }
